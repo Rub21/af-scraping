@@ -1,0 +1,25 @@
+{
+  "name": "af-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rub21/af-scraping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rub21/af-scraping/issues"
+  },
+  "homepage": "https://github.com/Rub21/af-scraping#readme",
+  "dependencies": {
+    "async-csv": "^2.0.0",
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.3",
+    "p-iteration": "^1.1.8"
+  }
+}
