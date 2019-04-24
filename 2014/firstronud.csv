@@ -1,0 +1,408 @@
+id,name,provId,geoId,provName,421province,alternateNames,district,Code
+101,Kabul,1,101,Kabul,Kabul,"Kabul.  (Char Dehi, a separate district in 325 district set, was absorbed into the Kabul district in the 1990's.)",Kabul,101
+105,Deh Sabz,1,102,Kabul,Baghlan,"Deh Salah, Dehsalah, Deh-e Salah.",Deh Salah,908
+106,Shakardara,1,103,Kabul,Farah,"Anar Dara, Anardara.",Anar Dara,3307
+102,Paghman,1,104,Kabul,Kabul,Paghman.,Paghman,102
+103,Chahar Asyab,1,105,Kabul,Kabul,"Chahar Asyab, Chaharasyab, Char Asyab, Char Asiab.",Chahar Asyab,103
+107,Musayi,1,106,Kabul,,,,
+104,Bagrami,1,107,Kabul,Kabul,"Bagrami.  (There is also a Bagram in Parwan. The airfield is in Baghram of Parwan, not Baghrami.)",Bagrami,104
+114,Qarabagh,1,108,Kabul,Ghazni,"Qara Bagh, Qarabagh, Qarah Bagh.  (There is also a Qara Bagh district of Kabul.)",Qara Bagh,1111
+110,Kalakan,1,109,Kabul,Kabul,Kalakan.,Kalakan,110
+108,Mir Bacha Kot,1,110,Kabul,Kabul,"Mir Bacha Kot, Mirbachakot.",Mir Bacha Kot,108
+111,Guldara,1,111,Kabul,Kabul,"Guldara, Gul Dara, Gul Darah, Guldra.",Guldara,111
+109,Khak-e- Jabbar,1,112,Kabul,Kabul,"Khak-e-Jabar, Khak-i-Jabar, Khak Jabar, Khaki Jabbar.",Khak-e-Jabar,109
+115,Surobi,1,113,Kabul,,,,
+113,Estalef,1,114,Kabul,Kabul,"Estalef, Estalif, Istalif, Istalef.",Estalef,113
+112,Farza,1,115,Kabul,Jowzjan,Darzab.,Darzab,2811
+201,Mahmud-e- Raqi,2,201,Kapisa,,,,
+205,Nejrab,2,202,Kapisa,,,,
+203,Koh Band,2,203,Kapisa,Kapisa,"Koh Band, Kohband.",Koh Band,203
+202,Hisa Duwum-e- Kohestan,2,204,Kapisa,Kapisa,"Hissa-e-Duwumi Kohistan, Hisah-e Dowum-e Kohistan, Kohistan-I-Duwum.  (There is also a Hissa-e-Awali Kohistan in Kapisa, a Kohistan in Badakhshan, another Kohistan in Faryab, and a Kohistanat in Saripul.)",Hissa-e-Duwumi Kohistan,202
+206,Tagab,2,205,Kapisa,Badakhshan,"Tagab, Tagau.",Tagab,1717
+207,Alasay,2,206,Kapisa,Kapisa,"Alasai, Ala Say, Alasay.",Alasai,207
+204,Hesa Awal-e- Kohestan,2,207,Kapisa,,,,
+301,Chaharikar,3,301,Parwan,Kunduz,"Chahar Darah, Chardarah, Chardara.",Chahar Darah,1902
+305,Jabalussaraj,3,302,Parwan,Parwan,"Jabulussaraj, Jabal Saraj, Jablas Saraj, Jabal us Saraj.",Jabulussaraj,305
+303,Shinwari,3,303,Parwan,Nangarhar,"Shinwar, Ghanikhel, Ghani Kahil.  (There is also a Ghani Khel (aka  Qarghayee) district in Laghman.)",Shinwar,616
+302,Bagram,3,304,Parwan,Kabul,"Bagrami.  (There is also a Bagram in Parwan. The airfield is in Baghram of Parwan, not Baghrami.)",Bagrami,104
+304,Sayd Khel,3,305,Parwan,Parwan,"Sayyid Khel, Saydkhel. There is also a Sayyad district in Sar-e-Pul, a Sayyid Karam in Paktia, and a Sayyid Abad district in Wardak.",Sayyid Khel,304
+306,Salang,3,306,Parwan,Parwan,Salang.,Salang,306
+307,Syah Gerd,3,307,Parwan,,,,
+308,Koh-e- Safi,3,308,Parwan,Parwan,"Koh-e-Safi, Koh Safi.",Koh-e-Safi,308
+310,Shekh  Ali,3,309,Parwan,Parwan,"Shaykh Ali, Sheikh Ali, Shekhali, Shaykh 'Ali.",Shaykh Ali,310
+309,Surkhe Parsa,3,310,Parwan,Parwan,"Surkh Parsa, Surkhi Parsa, Surkh-e-Parsa, Surkhe Parsa, Surkh-o Parsa, Lolinge, Lowlenge.",Surkhi Parsa,309
+401,Maydan Shahr,4,401,Wardak,Wardak,"Maidan Shahr, Maydan Shahr, Maydanshahr.",Maidan Shahr,401
+403,Jalrez,4,402,Wardak,Wardak,"Jalrez, Jalrayz.",Jalrez,403
+402,Nerkh,4,403,Wardak,Wardak,Nerkh,Nerkh,402
+407,Hesa Awal-e- Behsud,4,404,Wardak,Wardak,"Hissa-e-Awal-e-Behsud, Hesa-e Awal-e Behsud, Hisa-i-Awal-i Bihsud.  (There is also a Markazi Behsud district in Wardak, and a Behsud district in Nangarhar.)",Hissa-e-Awal-e-Behsud,407
+406,Day Mirdad,4,405,Wardak,Wardak,"Daimirdad, Daymirdad, Day Mirdad.",Daimirdad,406
+404,Chak,4,406,Wardak,Takhar,Chal.,Chal,1805
+405,Saydabad,4,407,Wardak,Kunar,"Asad Abad, Asadabad.",Asad Abad,1501
+409,Markaz-e-Behsud,4,408,Wardak,Wardak,"Markaz-e-Behsud, Markaz-i-Bihsud.  (There is also a Hisa-e-Awal-e-Behsud district in Wardak, and a Behsud district in Nangarhar.)",Markaz-e-Behsud,409
+408,Jaghatu,4,409,Wardak,Ghazni,"Jaghatu, Jaghato, Jighatu, Bahrami Shahid, Bahram-e Shahid, Waeez Shahid, Wais Shahid.  (There is also a Jaghatu in Wardak province.)",Jaghatu,1106
+501,Pul-e- Alam,5,501,Logar,Logar,"Puli Alam, Pul-e-Alam, Pul-i-Alam.",Puli Alam,501
+504,Khoshi,5,502,Logar,Khost,"Khost, Matun.",Khost,1401
+505,Mohammad Agha,5,503,Logar,Logar,"Mohammad Agha, Mohammadagha.",Mohammad Agha,505
+502,Baraki Barak,5,504,Logar,Logar,"Baraki Barak, Barakibarak, Barak-e-Barak.",Baraki Barak,502
+503,Charkh,5,505,Logar,Balkh,"Char Kent, Charkent, Charkint, Chahar Kent, Char Kant.",Char Kent,2104
+506,Kharwar,5,506,Logar,Logar,Kharwar.,Kharwar,506
+507,Azra,5,507,Logar,Logar,Azra.,Azra,507
+601,Jalalabad,6,601,Nangarhar,Nangarhar,"Jalalabad, Djalalabad.",Jalalabad,601
+602,Behsud,6,602,Nangarhar,Nangarhar,"Behsud, Bihsud, Behsod.  (There is a Markaz-e-Behsud district, and a Hise-e-Awal-e-Behsud district, both in Wardak.",Behsud,602
+603,Surkh Rod,6,603,Nangarhar,Nangarhar,"Surkh Rud, Surkhrud, Surkh Rod, Surkhrod, Sorkh Roud.",Surkh Rud,603
+608,Khowgiani,6,604,Nangarhar,,,,
+604,Chaparhar,6,605,Nangarhar,Kunar,"Chapa Dara, Chapah Darah, Chapadara.",Chapa Dara,1513
+607,Rodat,6,606,Nangarhar,Nangarhar,Rodat.,Rodat,607
+605,Kama,6,607,Nangarhar,Nangarhar,"Kama, Kamah.",Kama,605
+606,Kuz Kunar,6,608,Nangarhar,Nangarhar,"Kuzkunar, Kuz Kunar, Khewa.",Kuzkunar,606
+612,Dara-e-Nur,6,609,Nangarhar,Kunar,"Dara-e-Pech, Dara-I-Pech, Darah-ye Pech, Pech Dara, Mano Gai, Manogai, Manogay.",Dara-e-Pech,1507
+621,Hesarak,6,610,Nangarhar,Nangarhar,"Hesarak, Hisarak, Hesarak Ghaljai.",Hesarak,621
+619,Sherzad,6,611,Nangarhar,Nangarhar,"Sher Zad, Sherzad, Shir Zad, Shirzad.",Sher Zad,619
+611,Pachier Agam,6,612,Nangarhar,Nangarhar,"Pachir Wa Agam, Pachiragam.",Pachir Wa Agam,611
+610,Deh Bala,6,613,Nangarhar,Baghlan,"Deh Salah, Dehsalah, Deh-e Salah.",Deh Salah,908
+613,Kot,6,614,Nangarhar,Nangarhar,Kot.,Kot,613
+609,Bati Kot,6,615,Nangarhar,Nangarhar,"Bati Kot, Batikot.",Bati Kot,609
+614,Goshta,6,616,Nangarhar,Nangarhar,Goshta.,Goshta,614
+615,Achin,6,617,Nangarhar,Nangarhar,"Achin, Achen, Acheen, Achine.  (Spingar is part of Achin in the 399 and 407 sets.)",Achin,615
+616,Shinwar,6,618,Nangarhar,Nangarhar,"Shinwar, Ghanikhel, Ghani Kahil.  (There is also a Ghani Khel (aka  Qarghayee) district in Laghman.)",Shinwar,616
+617,Muhmand Dara,6,619,Nangarhar,Baghlan,"Andarab, Bano Andarab.",Andarab,907
+618,Lal Pur,6,620,Nangarhar,,,,
+620,Nazian,6,621,Nangarhar,,,,
+622,Dur Baba,6,622,Nangarhar,Nangarhar,"Dur Baba, Durbaba.",Dur Baba,622
+701,Mehtarlam,7,701,Laghman,Laghman,"Mehterlam, Mehtarlam, Mehtar Lam, Meterlam (incorrect).  (Bak Pash is part of Mehterlam in the 399 set.)",Mehterlam,701
+703,Alishang,7,702,Laghman,Laghman,"Alishing, Alisheng.",Alishing,703
+702,Qarghayi,7,703,Laghman,Laghman,"Qarghayee, Ghani Khel, Qarghayi, Qarghah'i, Ghanikhel, Ghanikhil.  (There is also a Ghani Khel (aka Shinwar) district in Nangarhar.)",Qarghayee,702
+704,Alingar,7,704,Laghman,Laghman,"Alingar, Ali Negar, Alinegar.",Alingar,704
+705,Daulat Shah,7,705,Laghman,Laghman,"Dawlat Shah, Dawlatshah.  (There is also a Dawlatyar in Ghor, a Dawlatabad in Balkh, and another Dawlat Abad in Faryab.)",Dawlat Shah,705
+801,Bazarak,8,801,Panjsher,Badakhshan,"Baharak, Bahorak.  (There is also a Baharak district in Takhar.)",Baharak,1706
+806,Shutul,8,802,Panjsher,Panjsher,Shutul.,Shutul,806
+802,Rukha,8,803,Panjsher,Panjsher,"Rukha, Rokha.",Rukha,802
+803,Dara,8,804,Panjsher,Badakhshan,"Darayim, Darayem, Darah Aim.",Darayim,1707
+804,Khenj (Hes-e- Awal),8,805,Panjsher,,,,
+805,Onaba(Anawa),8,806,Panjsher,Panjsher,"Unaba, Anawa, Anaba, Hisa-e-Char Panjshir.",Unaba,805
+807,Parian,8,807,Panjsher,,,,
+901,Pul-e- khumri,9,901,Baghlan,Baghlan,"Pul-i-Khumri, Pul-e-Khumri.",Pul-i-Khumri,901
+905,Baghlan-e-jadid,9,902,Baghlan,Baghlan,"Baghlan-e-Jadeed, Baghlani Markazi, Baghlan Markazi.  (There was once a ""Baghlan"" district.  It is now part of what all of these sets report as Baghlan-e-Jadeed.)",Baghlan-e-Jadeed,905
+902,Dahana-e-Ghory,9,903,Baghlan,Baghlan,"Dahana-e-Ghuri, Dahanah-ye Ghori, Dahana-e-Ghori, Dand-e Ghor.",Dahana-e-Ghuri,902
+903,Dushi,9,904,Baghlan,Baghlan,"Dushi, Doshi.",Dushi,903
+904,Nahrin,9,905,Baghlan,,,,
+911,Tala wa barfak,9,906,Baghlan,Baghlan,"Tala Wa Barfak, Talah wa Barfak, Tala Barfak.",Tala Wa Barfak,911
+906,Khenjan,9,907,Baghlan,Baghlan,"Khinjan, Khenjan.",Khinjan,906
+907,Andarab,9,908,Baghlan,Baghlan,"Andarab, Bano Andarab.",Andarab,907
+909,Khwaja Hejran,9,909,Baghlan,Baghlan,"Khwaja Hejran, Jalga, Khwajahejran, Khwajah Higran.",Khwaja Hejran,909
+910,Burka,9,910,Baghlan,Baghlan,"Burka, Barka.",Burka,910
+912,Pul-e-Hesar,9,911,Baghlan,Baghlan,"Pul-e-Hisar, Pul-i Hesar, Pul-e Hesar, Pule Hisar.",Pul-e-Hisar,912
+908,Deh Salah,9,912,Baghlan,Baghlan,"Deh Salah, Dehsalah, Deh-e Salah.",Deh Salah,908
+913,Khowst wa Fereng,9,913,Baghlan,,,,
+914,Guzargah-e- Nur,9,914,Baghlan,Baghlan,"Gozargah-e-Noor, Guzargah-e- Nur.",Gozargah-e-Noor,914
+915,Firing Wa Gharu,9,915,Baghlan,Baghlan,"Firing Wa Gharu, Fereng Wa Gharu, Farang wa Gharu, Farang.",Firing Wa Gharu,915
+1001,Bamyan,10,1001,Bamyan,Bamiyan,"Bamyan, Bamian.",Bamyan,1001
+1003,Sayghan,10,1002,Bamyan,Bamiyan,"Saighan, Sayghan.",Saighan,1003
+1005,Yakawlang,10,1003,Bamyan,Bamiyan,"Yakawlang, Yakawlang No. 1, Yakawlang Hesa-i Awal, Yakawland Hise Awal.  (The 399 and 407 sets show Yakawlang No. 2 as part of Yakawlang.)",Yakawlang,1005
+1006,Panjab,10,1004,Bamyan,Bamiyan,Panjab.,Panjab,1006
+1002,Shibar,10,1005,Bamyan,,,,
+1004,Kahmard,10,1006,Bamyan,Bamiyan,"Kahmard, Kohmard.",Kahmard,1004
+1007,Waras,10,1007,Bamyan,Bamiyan,Waras.,Waras,1007
+1101,Ghazni,11,1101,Ghazni,Ghazni,Ghazni.,Ghazni,1101
+1103,Khwaja Umari,11,1102,Ghazni,Ghazni,"Khwaja Omari, Khwajah Omari, Khwajaumari, Khwaja Umari.",Khwaja Omari,1103
+1102,Wali Muhammad-e- Shahid,11,1103,Ghazni,,,,
+1104,Waghaz,11,1104,Ghazni,Ghazni,Waghaz.,Waghaz,1104
+1107,Andar,11,1105,Ghazni,Baghlan,"Andarab, Bano Andarab.",Andarab,907
+1105,Deh Yak,11,1106,Ghazni,Ghazni,"Deh Yak, Dehyak, Dih Yak.",Deh Yak,1105
+1108,Zana Khan,11,1107,Ghazni,Badakhshan,Wakhan.,Wakhan,1728
+1109,Rashidan,11,1108,Ghazni,Ghazni,Rashidan.,Rashidan,1109
+1106,Jaghatu,11,1109,Ghazni,Ghazni,"Jaghatu, Jaghato, Jighatu, Bahrami Shahid, Bahram-e Shahid, Waeez Shahid, Wais Shahid.  (There is also a Jaghatu in Wardak province.)",Jaghatu,1106
+1111,Qarabagh,11,1110,Ghazni,Ghazni,"Qara Bagh, Qarabagh, Qarah Bagh.  (There is also a Qara Bagh district of Kabul.)",Qara Bagh,1111
+1112,Giro,11,1111,Ghazni,Ghazni,Giro.,Giro,1112
+1110,Nawur,11,1112,Ghazni,Ghazni,Nawur.,Nawur,1110
+1114,Jaghuri,11,1113,Ghazni,Ghazni,"Jaghuri, Jaghori, Jaghouri.",Jaghuri,1114
+1115,Muqur,11,1114,Ghazni,Badghis,"Muqur, Moqur, Moqor.  (There is also a Moqur district in Ghazni.)",Muqur,3103
+1113,Ab Band,11,1115,Ghazni,Ghazni,"Ab Band, Abband, Auband.",Ab Band,1113
+1118,Ajrestan,11,1116,Ghazni,Ghazni,"Ajristan, Daya, Ajrestan,.",Ajristan,1118
+1116,Malestan,11,1117,Ghazni,Ghazni,"Malistan, Malestan.",Malistan,1116
+1117,Gelan,11,1118,Ghazni,Ghazni,"Gelan, Gilan, Janda (the distict center).",Gelan,1117
+0,Nawa,,1119,,Ghazni,"Nawa, Nawah.  (There is also a Nawa (aka Nawa-i-Barakzai) in Helmand, and a Nawur district in Ghazni.)",Nawa,1119
+1301,Gardez,13,1201,Paktya,Paktia,Gardez.,Gardez,1301
+1306,Sayed Karam,13,1202,Paktya,Paktia,"There is also a Sayyad district in Sar-e-Pul, a Sayyid Khel in Parwan, and a Sayyid Abad district in Wardak.  (Mirzaka is part of Sayyid Karam in the 399 set, and split off in the others.)",Sayyid Karam,1306
+1302,Ahmadaba,13,1203,Paktya,Paktia,"Ahmadabad, Ahmad Abad, Ahmadaba.",Ahmadabad,1302
+1303,Zurmat,13,1204,Paktya,Paktia,"Zurmat, Zormat.  (Rohany Baba is part of Zurmat in the 399, 407 and 419 sets.)",Zurmat,1303
+1304,Shawak,13,1205,Paktya,Paktia,"Shwak, Shawak, Showak.",Shwak,1304
+1305,Zadran,13,1206,Paktya,Herat,Adraskan.,Adraskan,3209
+1308,Lija Ahmad Khel,13,1207,Paktya,Paktia,"Laja Ahmad Khel, Ahmadkhel, Ahmad Khel.  (The Laja Mangel area is included in Laja Ahmad Khel in the 399 set.)",Laja Ahmad Khel,1308
+1307,Ali Khel (Jaji),13,1208,Paktya,Paktia,"Jani Khel, Janikhel.  (There is also a Jani Khel in Paktika.)",Jani Khel,1309
+1309,Jani Khel,13,1209,Paktya,Paktia,"Jani Khel, Janikhel.  (There is also a Jani Khel in Paktika.)",Jani Khel,1309
+1310,Chamkani,13,1210,Paktya,Paktia,"Samkani, Chamkani, Chamkani, Tchamkani, Tsamkani, Samkani, Samkanai.",Samkani,1310
+1311,Dand wa Patan,13,1211,Paktya,Paktia,"Dand Patan, Dand wa Patan, Dand-e Patan.  (There is also a Dand district in Kandahar.)",Dand Patan,1311
+1501,Asad Abad,15,1301,Kunar,Kunar,"Asad Abad, Asadabad.",Asad Abad,1501
+1503,Wata Pur,15,1302,Kunar,Kunar,"Watapoor, Watahpur, Watapur.",Watapoor,1503
+1504,Narang,15,1303,Kunar,Farah,"Anar Dara, Anardara.",Anar Dara,3307
+1505,Sarkani,15,1304,Kunar,Kunar,"Sar Kani, Sarkani, Sarkano.",Sar Kani,1505
+1502,Marawara,15,1305,Kunar,Kunar,"Marawara, Marwara.",Marawara,1502
+1506,Shigal wa shel tan,15,1306,Kunar,,,,
+1507,Dara-e-Pech,15,1307,Kunar,Kunar,"Dara-e-Pech, Dara-I-Pech, Darah-ye Pech, Pech Dara, Mano Gai, Manogai, Manogay.",Dara-e-Pech,1507
+1509,Chawkay,15,1308,Kunar,,,,
+1510,Khas Kunar,15,1309,Kunar,Kunar,"Khas Kunar, Khaskunar, Khas.",Khas Kunar,1510
+1512,Dangam,15,1310,Kunar,Kandahar,Daman.,Daman,2703
+1508,Bar Kunar,15,1311,Kunar,Kunar,"Bar Kunar, Bar Konar, Barkunar, Asmar.",Bar Kunar,1508
+1511,Ghazi Abad,15,1312,Kunar,Kunar,"Ghazi Abad, Ghaziabad.",Ghazi Abad,1511
+1513,Chapa Dara,15,1313,Kunar,Ghor,"Char Sada, Chahar Sadah, Charsadda.",Char Sada,2304
+1514,Nurgal,15,1314,Kunar,,,,
+1515,Nari,15,1315,Kunar,Balkh,"Zari, Zaray.",Zari,2115
+1601,Poruns,16,1401,Nuristan,,,,
+1607,Mandol,16,1402,Nuristan,Nuristan,Mandol.,Mandol,1607
+1605,Du Ab,16,1403,Nuristan,Nuristan,"Duab, Do Ab, Du’ab.",Duab,1605
+1604,Nurgaram,16,1404,Nuristan,,,,
+1603,Wama,16,1405,Nuristan,Nangarhar,"Kama, Kamah.",Kama,605
+1602,Waygal,16,1406,Nuristan,Nuristan,"Waygal, Want Wagal, Wegal, Want Wegal.",Waygal,1602
+1606,Kamdesh,16,1407,Nuristan,Nuristan,"Kamdesh, Kamdish.",Kamdesh,1606
+1608,Barg-e- Matal,16,1408,Nuristan,Nuristan,"Bargi Matal, Barg-i-Matal, Barg-e-Matal, Barg-e-Mataal, Bargromatal.",Bargi Matal,1608
+1701,Faiz Abad,17,1501,Badakhshan,Badakhshan,"Faiz Abad, Fayzabad.  (There is also a Faizabad district in Jowzjan.)",Faiz Abad,1701
+1704,Yaftal-e-Sufla,17,1502,Badakhshan,Badakhshan,"Yaftal-e-Sufla, Yaftal Payin, Yaftal-i-Paen, Lower Yaftal.",Yaftal-e-Sufla,1704
+1702,Argo,17,1503,Badakhshan,Badakhshan,"Argo, Orgu.",Argo,1702
+1703,Arghanj Khwa,17,1504,Badakhshan,Badakhshan,"Arghanj Khwah, Arghanjkhwa.",Arghanj Khwah,1703
+1708,Kohistan,17,1505,Badakhshan,Badakhshan,"Kohistan, Kohestiani.  (There is also a Kohistan in Faryab, a Hissa-e-Awali Kohistan in Kapisa, a Hissa-e Duome Kohistan in Kapisa, and a Kohistanat in Saripul.)",Kohistan,1708
+1714,Raghistan,17,1506,Badakhshan,Badakhshan,"Kohistan, Kohestiani.  (There is also a Kohistan in Faryab, a Hissa-e-Awali Kohistan in Kapisa, a Hissa-e Duome Kohistan in Kapisa, and a Kohistanat in Saripul.)",Kohistan,1708
+1709,Yawan,17,1507,Badakhshan,Badakhshan,Yawan.,Yawan,1709
+1713,Shahr-e-Buzorg,17,1508,Badakhshan,,,,
+1711,Teshkan,17,1509,Badakhshan,Badakhshan,"Tashkan, Teshkan.",Tashkan,1711
+1707,Darayem,17,1510,Badakhshan,Badakhshan,"Darayim, Darayem, Darah Aim.",Darayim,1707
+1705,Khash,17,1511,Badakhshan,Badakhshan,Khash.,Khash,1705
+1706,Baharak,17,1512,Badakhshan,Badakhshan,"Baharak, Bahorak.  (There is also a Baharak district in Takhar.)",Baharak,1706
+1712,Shuhada,17,1513,Badakhshan,Badakhshan,"Shuhada, Shohada.",Shuhada,1712
+1719,Shighnan,17,1514,Badakhshan,Badakhshan,Shighnan.,Shighnan,1719
+1727,Darwaz-e-Balla,17,1515,Badakhshan,Badakhshan,"Darwaz-e-Bala, Upper Darwaz, Mamai, Mam May.  (Several sources mistakenly reverse Mamai, the center of Darwaz-e-Bala, with Nesay, the center of Darwaz-e-Payin.)",Darwaz-e-Bala,1727
+1721,Kof Ab,17,1516,Badakhshan,,,,
+1720,Khwahan,17,1517,Badakhshan,Badakhshan,"Arghanj Khwah, Arghanjkhwa.",Arghanj Khwah,1703
+1715,Keshem,17,1518,Badakhshan,,,,
+1717,Tagab,17,1519,Badakhshan,Badakhshan,"Tagab, Tagau.",Tagab,1717
+1718,Yamgan,17,1520,Badakhshan,Badakhshan,"Yamgan, Girwan, Yumgan,.",Yamgan,1718
+1710,Jorm,17,1521,Badakhshan,,,,
+1716,Warduj,17,1522,Badakhshan,,,,
+1723,Ishkashem,17,1523,Badakhshan,Badakhshan,"Eshkashim, Ishkashem.  (Eshkashim is sometimes confused with Eshkamish district of Takhar.)",Eshkashim,1723
+1722,Darwaz,17,1524,Badakhshan,,,,
+1724,Shaki,17,1525,Badakhshan,,,,
+1726,Koran wa Monjan,17,1526,Badakhshan,Badakhshan,"Kiran Wa Menjan, Kirn wa Manjan, Koran o Monjan.",Kiran Wa Menjan,1726
+1725,Zebak,17,1527,Badakhshan,Badakhshan,"Zebak, Zibak.",Zebak,1725
+1728,Wakhan,17,1528,Badakhshan,Badakhshan,Khwahan.,Khwahan,1720
+1801,Taloqan,18,1601,Takhar,Takhar,"Taluqan, Taloqan.",Taluqan,1801
+1802,Hazar Sumuch,18,1602,Takhar,Takhar,"Hazar Sumuch, Hazarsumuch, Hazar Sumoch.",Hazar Sumuch,1802
+1803,Baharak,18,1603,Takhar,Badakhshan,"Baharak, Bahorak.  (There is also a Baharak district in Takhar.)",Baharak,1706
+1804,Bangi,18,1604,Takhar,Helmand,Sangin.,Sangin,3008
+1805,Chal,18,1605,Takhar,Takhar,Chal.,Chal,1805
+1806,Namak Ab,18,1606,Takhar,Badghis,"Ab Kamari, Ab-e Kamari, Abkamari.",Ab Kamari,3102
+1808,Farkhar,18,1607,Takhar,Logar,"Charkh, Tchark.",Charkh,503
+1807,Kalafgan,18,1608,Takhar,Kabul,Kalakan.,Kalakan,110
+1810,Rostaq,18,1609,Takhar,,,,
+1816,Chah Ab,18,1610,Takhar,Kabul,"Chahar Asyab, Chaharasyab, Char Asyab, Char Asiab.",Chahar Asyab,103
+1817,Yangi Qala,18,1611,Takhar,Parwan,Salang.,Salang,306
+1814,Khwaja Bahawuddin,18,1612,Takhar,Takhar,"Khwaja Bahawuddin, Khwajabahauddin, Khwaja Bahauddin.",Khwaja Bahawuddin,1814
+1812,Dasht-e-Qala,18,1613,Takhar,Kunduz,"Dasht-e-Archi, Dasht-i-Archi.  (Calbad is part of Dasht-e-Archi in the 399 and 407 sets.)",Dasht-e-Archi,1906
+1809,Khwaja Ghar,18,1614,Takhar,Ghazni,"Khwaja Omari, Khwajah Omari, Khwajaumari, Khwaja Umari.",Khwaja Omari,1103
+1811,Ishkamish,18,1615,Takhar,Takhar,"Eshkamesh, Ishkamish.  (There is also an Eshkashim district in Badakhshan.)",Eshkamesh,1811
+1813,Warsaj,18,1616,Takhar,Takhar,Warsaj.,Warsaj,1813
+1815,Darqad,18,1617,Takhar,Takhar,Darqad.,Darqad,1815
+1901,Kunduz,19,1701,Kunduz,Kunduz,"Kunduz, Konduz.  (Gurtepa is part of the Kunduz capital district in the 399 and 407 sets.)",Kunduz,1901
+1905,Imam Saheb,19,1702,Kunduz,Kunduz,"Imam Sahib, Hazrati Imam Sahib, Emamsaheb, Emam Sahib.",Imam Sahib,1905
+1907,Qala-e-Zal,19,1703,Kunduz,Kunduz,"Qala-e-Zal, Qala-i-Zal, Qal'ah-ye Zal.",Qala-e-Zal,1907
+1902,Chahar Darah,19,1704,Kunduz,Kabul,"Shakar Dara, Shakardara.",Shakar Dara,106
+1903,Ali Abad,19,1705,Kunduz,Kunduz,"Ali Abad, Aliabad.",Ali Abad,1903
+1904,Khan Abad,19,1706,Kunduz,Jowzjan,"Khanaqa, Khaniqa.",Khanaqa,2803
+1906,Dasht-e-Archi,19,1707,Kunduz,Kunduz,"Dasht-e-Archi, Dasht-i-Archi.  (Calbad is part of Dasht-e-Archi in the 399 and 407 sets.)",Dasht-e-Archi,1906
+2101,Mazar-e-Sharif,21,1801,Balkh,Balkh,"Mazar-e-Sharif, Mazar-i-Sharif, Mazar.",Mazar-e-Sharif,2101
+2102,Nahr-e- Shahi,21,1802,Balkh,Balkh,"Nahri Shahi, Nahr-e Shahi.",Nahri Shahi,2102
+2112,Shor Tepa,21,1803,Balkh,Balkh,"Shortepa, Shortepah, Shortipa.",Shortepa,2112
+2109,Dawlat Abad,21,1804,Balkh,Balkh,"Dawlat Abad, Dawlatabad, Dolatabad.  (There is also a Dawlatabad in Faryab, and a Dawlatshah in Laghman, and a Dawlatyar in Ghor.)",Dawlat Abad,2109
+2106,Balkh,21,1805,Balkh,Balkh,Balkh.,Balkh,2106
+2103,Deh Dadi,21,1806,Balkh,Balkh,"Dehdadi, Dihdadi.",Dehdadi,2103
+2104,Chahar Kent,21,1807,Balkh,Balkh,"Char Kent, Charkent, Charkint, Chahar Kent, Char Kant.",Char Kent,2104
+2105,Marmul,21,1808,Balkh,Balkh,Marmul.,Marmul,2105
+2110,Khulm,21,1809,Balkh,Balkh,"Khulm, Khulam, Tashqurghan, Tash Qurghan.",Khulm,2110
+2113,Kaldar,21,1810,Balkh,Balkh,Kaldar.  (The 421 district set shows Sharak-e-Hairatan as part of Kaldar.),Kaldar,2113
+0,Sharak-e-Hayratan,,1811,,,,,
+2111,Chahar Bolak,21,1812,Balkh,Balkh,"Char Bolak, Chahar Bulak, Charbulak.",Char Bolak,2111
+2108,Chemtal,21,1813,Balkh,Balkh,"Chimtal, Chemtal, Tchimtal.",Chimtal,2108
+2107,Sholgareh,21,1814,Balkh,Balkh,"Sholgara, Sholgarah, Shulgara, Shulgar.",Sholgara,2107
+2114,Kishindeh,21,1815,Balkh,Badakhshan,"Kishim, Keshem, Keshm.",Kishim,1715
+2115,Zari,21,1816,Balkh,Balkh,"Zari, Zaray.",Zari,2115
+2001,Aybak,20,1901,Samangan,Samangan,"Aybak, Aibak.",Aybak,2001
+2002,Hazrat-e- Sultan,20,1902,Samangan,Samangan,"Hazrat-e-Sultan, Hazrat Sultan.",Hazrat-e-Sultan,2002
+2004,Feroz Nakhchir,20,1903,Samangan,Samangan,"Feroz Nakhcheer, Feroznakhchir, Feroz Nakhchir.",Feroz Nakhcheer,2004
+2006,Darah Suf-e- Payin,20,1904,Samangan,Badakhshan,"Darwaz-e-Payin, Darwas-e Pa'in, Nesay, Nesai, Lower Darwaz.  (Several sources mistakenly reverse Mamai, the center of Darwaz-e-Bala, with Nesay, the center of Darwaz-e-Payin.)",Darwaz-e-Payin,1722
+2006,Darah Suf-e-Bala,20,1905,Samangan,Badakhshan,"Darwaz-e-Bala, Upper Darwaz, Mamai, Mam May.  (Several sources mistakenly reverse Mamai, the center of Darwaz-e-Bala, with Nesay, the center of Darwaz-e-Payin.)",Darwaz-e-Bala,1727
+2003,Khuram wa Sarbagh,20,1906,Samangan,Samangan,"Khuram Wa Sarbagh,Khuram wa Sar Bagh, Khuram Sarbagh.",Khuram Wa Sarbagh,2003
+2005,Ruy-e-Du Ab,20,1907,Samangan,,,,
+2201,Sar-e-Pul,22,2001,Sar-e-Pul,Baghlan,"Pul-e-Hisar, Pul-i Hesar, Pul-e Hesar, Pule Hisar.",Pul-e-Hisar,912
+2202,Sayad,22,2002,Sar-e-Pul,Saripul,"Sayyad, Sayad.  (There is also a Sayyid Khel district in Parwan, a Sayyid Karam in Paktika, and a Sayyid Abad district in Wardak.)",Sayyad,2202
+2203,Kohistanat,22,2003,Sar-e-Pul,Badakhshan,"Kohistan, Kohestiani.  (There is also a Kohistan in Faryab, a Hissa-e-Awali Kohistan in Kapisa, a Hissa-e Duome Kohistan in Kapisa, and a Kohistanat in Saripul.)",Kohistan,1708
+2204,Sozma Qala,22,2004,Sar-e-Pul,Saripul,"Sozma Qala, Sozmaqala, Sozmah Qal'ah.",Sozma Qala,2204
+2206,Gosfandi,22,2005,Sar-e-Pul,Saripul,Gosfandi.,Gosfandi,2206
+2207,Balkh Ab,22,2006,Sar-e-Pul,Balkh,Balkh.,Balkh,2106
+2205,Sang(San)Charak,22,2007,Sar-e-Pul,Saripul,"Sancharak, Sangcharak.",Sancharak,2205
+2301,Chaghcharan,23,2101,Ghor,Faryab,"Khani Charbagh, Khan-e-Char Bagh. Khan-e Chahr Bagh, Khan Chahr Bagh.",Khani Charbagh,2914
+2304,Chahar Sadra,23,2102,Ghor,Ghor,"Char Sada, Chahar Sadah, Charsadda.",Char Sada,2304
+2302,Du Lina,23,2103,Ghor,,,,
+2303,Dawlat Yar,23,2104,Ghor,Ghor,"Dawlatyar, Dolatyar, Dawlat Yar.  (There is also a Dawlatshar in Laghman, a Dawlat Abad in Faryab, and a Dawlatabad in Balkh.)",Dawlatyar,2303
+2306,Shahrak,23,2105,Ghor,Badakhshan,"Baharak, Bahorak.  (There is also a Baharak district in Takhar.)",Baharak,1706
+2308,Taywarah,23,2106,Ghor,Ghor,"Taywara, Taywarah, Taiwara, Taywaraha.",Taywara,2308
+2305,Pasaband,23,2107,Ghor,Ghazni,"Ab Band, Abband, Auband.",Ab Band,1113
+2307,Lal Wa Sarjangal,23,2108,Ghor,Ghor,"Lal Wa SarJangal, La'l wa SarJangal.",Lal Wa SarJangal,2307
+2309,Tolak,23,2109,Ghor,,,,
+2310,Saghar,23,2110,Ghor,Ghor,"Saghar, Sagher.",Saghar,2310
+2401,Nili,24,2201,Daykundi,Daikundi,"Nili, Layli.",Nili,2401
+2404,Ashtarlay,24,2202,Daykundi,,,,
+2405,Khadir,24,2203,Daykundi,,,,
+2406,kiti,24,2204,Daykundi,Daikundi,"Giti, Kiti, Gayti.",Giti,2405
+2403,Gizab,24,2205,Daykundi,Urozgan,"Gizab, Gezab.  (Patoo is part of Gizab district, and it is part of Daikundi in the 399 and 407 sets.  Gizab (minus Patoo) is part of Urugzan province in the 419 and 421 sets.)",Gizab,2506
+2402,Shahristan,24,2206,Daykundi,Balkh,"Nahri Shahi, Nahr-e Shahi.",Nahri Shahi,2102
+2408,Sang-e-Takht,24,2207,Daykundi,Daikundi,"Sang-e-Takht, Sangi Takht, Sang-e-Takht Bandar, Bandar.",Sang-e-Takht,2407
+2409,Kajran,24,2208,Daykundi,,,,
+2407,Miramor,24,2209,Daykundi,Daikundi,"Miramor, Mir Amor.",Miramor,2406
+2501,Tirin Kot,25,2301,Uruzgan,Urozgan,"Tirinkot, Tirin Kot, Tarinkot, Tarin Kot.",Tirinkot,2501
+2503,Chora,25,2302,Uruzgan,Kandahar,Ghorak.,Ghorak,2709
+2504,Shahid-e-Hassas,25,2303,Uruzgan,Urozgan,"Shahidi Hassas, Shaidi Assas, Charchino, Char China.  (Sia Sang is included in Shahidi Hassas in all district sets, but some consider it to be a district.)",Shahidi Hassas,2504
+2502,Dehrawud,25,2304,Uruzgan,Urozgan,"Dehraoud, Dehrawud, Deh Rawud, Deh Rawod, Deh Rawood.",Dehraoud,2502
+2505,Khas Uruzgan,25,2305,Uruzgan,Urozgan,"Khas Urozgan, Khasuruzgan, Khas Oruzgan.",Khas Urozgan,2505
+2601,Qalat,26,2401,Zabul,Zabul,Qalat.,Qalat,2601
+2605,Arghandab,26,2402,Zabul,Baghlan,"Andarab, Bano Andarab.",Andarab,907
+2604,Mizan,26,2403,Zabul,Zabul,Mizan.,Mizan,2604
+2602,Tarnak Wa Jaldak,26,2404,Zabul,Zabul,"Tarnak wa Jaldak, Jeldak, Jaldak, Shahr-e-Safa, Shar-e-Safa.",Tarnak wa Jaldak,2602
+2603,Shinkay,26,2405,Zabul,Zabul,"Shinkai, Shinkay.  (There is also a Shinkai area in Kapisa.  The Surri (or Seuri, Sewray) area is included in Shinkai in all of these district sets.)",Shinkai,2603
+2606,Shah Joy,26,2406,Zabul,Zabul,"Shah Joi, Shahjoy, Shajoy, Shahjoi.",Shah Joi,2606
+0,Kakar,,2407,,Zabul,"Kakar, Khak-e-Afghan.",Kakar,2611
+2607,Day chopan,26,2408,Zabul,Zabul,"Daichopan, Daychopan, Day Chopan.",Daichopan,2607
+2608,Atghar,26,2409,Zabul,Zabul,Atghar.,Atghar,2608
+2610,Shomulzay,26,2410,Zabul,,,,
+2609,Naw Bahar,26,2411,Zabul,Badakhshan,"Baharak, Bahorak.  (There is also a Baharak district in Takhar.)",Baharak,1706
+1201,Sharan,12,2501,Paktika,Paktika,"Sharan, Sharana.",Sharan,1201
+1202,Mata Khan,12,2502,Paktika,Badakhshan,Wakhan.,Wakhan,1728
+1203,Yosuf Khel,12,2503,Paktika,Paktika,"Yosuf Khel, Yosufkhel.",Yosuf Khel,1203
+1205,Sar Hawzeh(Rawzeh),12,2504,Paktika,,,,
+1207,Zarghun Shahr,12,2505,Paktika,Paktika,"Zarghun Shahr, Khair Kot, Katawaz, Zarghunshahr.",Zarghun Shahr,1207
+1204,Yahya Khel,12,2506,Paktika,Paktika,"Yahya Khel, Yahyakhel, Yahya Khail.",Yahya Khel,1204
+1206,Omna,12,2507,Paktika,Paktika,"Omna, Omnah.",Omna,1206
+1208,Gomal,12,2508,Paktika,Paktika,"Gomal, Gumal.  (Chaharbaran is part of Gomal in these district sets, but is often refered to as a district.)",Gomal,1208
+1210,Sarobi,12,2509,Paktika,,,,
+1211,Urgun,12,2510,Paktika,,,,
+1213,Nika,12,2511,Paktika,Paktika,"Nika, Neka, Naka.",Nika,1213
+1209,Jani Khel,12,2512,Paktika,Paktia,"Jani Khel, Janikhel.  (There is also a Jani Khel in Paktika.)",Jani Khel,1309
+1217,Waza Khah,12,2513,Paktika,Badakhshan,Khwahan.,Khwahan,1720
+1218,Wor Mamay,12,2514,Paktika,Paktika,"Wormamay, Wur Mamay, Wormamai, Wormami, Wor Mamay.",Wormamay,1218
+1214,Bermel (Burmul),12,2515,Paktika,,,,
+1215,Gian,12,2516,Paktika,,,,
+1212,Ziruk,12,2517,Paktika,Paktika,"Ziruk, Zeruk, Zerok, Zirok.",Ziruk,1212
+1216,Dila,12,2518,Paktika,Nimroz,"Dilaram, Delaram.  (Dilaram is part of Kashrod in the 399 district set.)",Dilaram,3406
+1219,Turwo (Tarwe),12,2519,Paktika,Paktika,"Turwo, Tarwe, Terwa, Turwa.",Turwo,1219
+1401,Khost(Matun),14,2601,Khost,Khost,"Khost, Matun.",Khost,1401
+1407,Sabri,14,2602,Khost,Khost,"Sabari, Sabaro, Yaqubi.",Sabari,1407
+1405,Musa Khel,14,2603,Khost,Khost,"Musa Khel, Musakhel, Musakhil.",Musa Khel,1405
+1406,Nadir Shah Kot,14,2604,Khost,Khost,"Nadir Shah Kot, Nadirshahkot.",Nadir Shah Kot,1406
+1402,Mando Zayi,14,2605,Khost,Khost,"Manduzay, Esmayel Khil, Mandozayi, Manduzai, Ismail Khel, Mando Zayi.",Manduzay,1402
+1404,Tani,14,2606,Khost,,,,
+1403,Gurbuz,14,2607,Khost,Khost,Gurbuz.,Gurbuz,1403
+1408,Tere Zayi,14,2608,Khost,,,,
+1410,Qalandar,14,2609,Khost,Baghlan,"Andarab, Bano Andarab.",Andarab,907
+1412,Shamal (Shamul),14,2610,Khost,,,,
+1411,Spera,14,2611,Khost,Khost,"Spera, Sperah.",Spera,1411
+1409,Bak,14,2612,Khost,Badakhshan,"Zebak, Zibak.",Zebak,1725
+1413,Jaji Maydan,14,2613,Khost,Khost,"Jaji Maidan, Jajimaydan, Jaji, Zazi Maidan, Zazi, Zazai.",Jaji Maidan,1413
+2801,Shiberghan,28,2701,Jawzjan,Jowzjan,"Sheberghan, Shiberghan, Shibirghan.",Sheberghan,2801
+2804,Mingajik,28,2702,Jawzjan,Jowzjan,"Mingajik, Mangajek.",Mingajik,2804
+2802,Khwaja Du Koh,28,2703,Jawzjan,Jowzjan,"Khwajadukoh, Khwaja Dukoh, Khwajah Do Koh, Kohja Dukoh.",Khwaja Dukoh,2802
+2805,Qush Tepa,28,2704,Jawzjan,Jowzjan,"Qush Tepa, Qushtepa, Qushtipa.",Qush Tepa,2805
+2808,Fayz Abad,28,2705,Jawzjan,Badakhshan,"Faiz Abad, Fayzabad.  (There is also a Faizabad district in Jowzjan.)",Faiz Abad,1701
+2803,Khanaqa,28,2706,Jawzjan,Ghazni,"Zanakhan, Zana Khan.",Zanakhan,1108
+2807,Aqcha,28,2707,Jawzjan,Jowzjan,"Aqchah, Aqcha.",Aqchah,2807
+2809,Mardyan,28,2708,Jawzjan,Jowzjan,"Mardyan, Mardian, Murdian.",Mardyan,2809
+2810,Qarqin,28,2709,Jawzjan,Jowzjan,"Qarqin, Qarqeen.",Qarqin,2810
+2806,Khamyab,28,2710,Jawzjan,Jowzjan,"Khamyab, Khamab, Kham Aab, Khamaab.",Khamyab,2806
+2811,Darz Ab,28,2711,Jawzjan,Jowzjan,Darzab.,Darzab,2811
+2901,Maymana,29,2801,Faryab,Faryab,"Maimana, Maymana, Maimanah.",Maimana,2901
+2903,Khwaja Sabzposh,29,2802,Faryab,Faryab,"Khwaja Sabz Posh, Khwajasabzposh.",Khwaja Sabz Posh,2903
+2902,Pashtun kot,29,2803,Faryab,Faryab,"Pashtun Kot, Pashtunkot.",Pashtun Kot,2902
+2906,Shirin Tagab,29,2804,Faryab,Faryab,"Shirin Tagab, Shirintagab, Sherin Tagab, Sherin Tagau.  (There is also a Tagab in Kapisa and in Badakhshan.)",Shirin Tagab,2906
+2904,Almar,29,2805,Faryab,Faryab,Almar.,Almar,2904
+2907,Qaysar,29,2806,Faryab,,,,
+2910,Kohistan,29,2807,Faryab,Badakhshan,"Kohistan, Kohestiani.  (There is also a Kohistan in Faryab, a Hissa-e-Awali Kohistan in Kapisa, a Hissa-e Duome Kohistan in Kapisa, and a Kohistanat in Saripul.)",Kohistan,1708
+2908,Garziwan,29,2808,Faryab,Faryab,"Gurziwan, Garziwan, Gorzivan.",Gurziwan,2908
+2905,Bil Cheragh,29,2809,Faryab,Faryab,"Bilchiragh, Bilcheragh, Bal Chiragh, Belcheragh.",Bilchiragh,2905
+2909,Dawlat Abad,29,2810,Faryab,Balkh,"Dawlat Abad, Dawlatabad, Dolatabad.  (There is also a Dawlatabad in Faryab, and a Dawlatshah in Laghman, and a Dawlatyar in Ghor.)",Dawlat Abad,2109
+2913,Andkhoy,29,2811,Faryab,Faryab,"Andkhoy, Andkhoi.",Andkhoy,2913
+2911,Qaram Qol,29,2812,Faryab,Faryab,"Qaram Qul, Qaramqol.",Qaram Qul,2911
+2914,Khan-e-Chahar Bagh,29,2813,Faryab,Faryab,"Khani Charbagh, Khan-e-Char Bagh. Khan-e Chahr Bagh, Khan Chahr Bagh.",Khani Charbagh,2914
+2912,Qorghan,29,2814,Faryab,Faryab,"Qurghan, Qorghan.",Qurghan,2912
+3101,Qala-e-Naw,31,2901,Badghis,Kunduz,"Qala-e-Zal, Qala-i-Zal, Qal'ah-ye Zal.",Qala-e-Zal,1907
+3103,Muqur,31,2902,Badghis,Badghis,"Muqur, Moqur, Moqor.  (There is also a Moqur district in Ghazni.)",Muqur,3103
+3102,Ab Kamari,31,2903,Badghis,Badghis,"Ab Kamari, Ab-e Kamari, Abkamari.",Ab Kamari,3102
+3104,Qadis,31,2904,Badghis,Badghis,Qadis.  (Some consider Dara-e Bom to be a district.  It is included in Qadis here.),Qadis,3104
+3106,Jawand,31,2905,Badghis,Badakhshan,Yawan.,Yawan,1709
+3105,Bala Murghab,31,2906,Badghis,Badghis,"Murghab, Bala Murghab, Balamerghab.",Murghab,3105
+3107,Ghormach,31,2907,Badghis,Badghis,"Ghormach, Ghormuch.  (All of the district sets presented here list Ghormach in Badghis.  The IDLG, along with many news sources, report it as part of Faryab.)",Ghormach,3107
+3201,Hirat,32,3001,Hirat,,,,
+3202,Injil,32,3002,Hirat,Herat,"Enjil, Injil.",Enjil,3202
+3207,Kushk,32,3003,Hirat,Herat,"Kushk, Rubat-i-Sangi, Rabat Sangi.",Kushk,3207
+3205,Zinda Jan,32,3004,Hirat,,,,
+3203,Guzara,32,3005,Hirat,,,,
+3206,Pashtun  Zarghun,32,3006,Hirat,Herat,"Pashtun Zarghun, Pashtoon Zarghoon, Pashtunzarghun.",Pashtun Zarghun,3206
+3204,Karukh,32,3007,Hirat,Herat,"Karrukh, Karukh.",Karrukh,3204
+3208,Gulran,32,3008,Hirat,Herat,"Gulran, Golran.",Gulran,3208
+3211,Ghoryan,32,3009,Hirat,Herat,"Ghoryan, Ghorian.",Ghoryan,3211
+3209,Adraskan,32,3010,Hirat,Herat,Adraskan.,Adraskan,3209
+3215,Farsi,32,3011,Hirat,Herat,Farsi.,Farsi,3215
+3212,Obe,32,3012,Hirat,Herat,"Obe, Oba, Obeh.",Obe,3212
+3210,Kushk-e-Kohna,32,3013,Hirat,Herat,"Kushk-i-Kuhna, Kushk-e-Kohna, Kashak Kohna, Koshk-e Kohna.",Kushk-i-Kuhna,3210
+3213,Kohsan,32,3014,Hirat,Herat,"Kohsan, Kehsan, Kashan.",Kohsan,3213
+3214,Shindand,32,3015,Hirat,Herat,"Shindand, Sabzwar. Shindand, Esfezar (Shindand's five buluk subdivisions were split into five districts in the 419 and 421 set.  One of them still named Shindand.)",Shindand,3214
+3216,Chisht-e-Sharif,32,3016,Hirat,Herat,"Chishti Sharif, Chisht-e-Sharif, Khwaja Chist.",Chishti Sharif,3216
+3301,Farah,33,3101,Farah,Farah,Farah.,Farah,3301
+3308,Bakwa,33,3102,Farah,Farah,Bakwa.,Bakwa,3308
+3306,Bala Buluk,33,3103,Farah,Farah,"Bala Buluk, Bala Boluk, Balabuluk.",Bala Buluk,3306
+3303,Khak-e-Safed,33,3104,Farah,Farah,"Khak-i-Safed, Khak-e-Safed, Khak-i-Safid.",Khak-i-Safed,3303
+3302,Pusht Rod,33,3105,Farah,Farah,"Pushtrud, Pushtrod, Pusht-e Rod, Pusht Road, Poshtrud.",Pushtrud,3302
+3304,Qala-e-Kah,33,3106,Farah,Farah,"Qala-i-Kah, Qala-e-Kah, Qalah-e Kah Qul'ah-ye Kah, Pusht Koh.",Qala-i-Kah,3304
+3305,Shib Koh,33,3107,Farah,Farah,"Shibkoh, Shib Koh, Shayb Koh.",Shibkoh,3305
+3309,Lash-e-Juwayn,33,3108,Farah,Farah,"Lash-i-Juwayn, Lash-e-Juwayn, Lash wa Juwayn.",Lash-i-Juwayn,3309
+3310,Gulestan,33,3109,Farah,Farah,"Gulistan, Gulestan.",Gulistan,3310
+3311,Pur Chaman,33,3110,Farah,Farah,"Pur Chaman, Purchaman, Parchaman.",Pur Chaman,3311
+3307,Anar Dara,33,3111,Farah,Baghlan,"Andarab, Bano Andarab.",Andarab,907
+3001,Lashkar Gah,30,3201,Hilmand,Helmand,"Lashkargah, Lashkar Gah.",Lashkargah,3001
+3004,Nahr-e-Saraj,30,3202,Hilmand,Helmand,"Nahr-i-Saraj, Gerishk, Greshk.",Nahr-i-Saraj,3004
+3002,Nad-e-Ali,30,3203,Hilmand,Helmand,"Nad Ali, Nad-e-Ali, Nad 'Ali, Nadali. (Marja is part of Nad Ali in the 399 district set.)",Nad Ali,3002
+3003,Nawa-e-Barak Zaiy,30,3204,Hilmand,,,,
+3008,Sangin,30,3205,Hilmand,Helmand,Sangin.,Sangin,3008
+3009,Musa Qaleh,30,3206,Hilmand,Helmand,"Musa Qala, Musaqalah.",Musa Qala,3009
+3007,Naw Zad,30,3207,Hilmand,Helmand,"Nawzad, Now Zad.",Nawzad,3007
+3005,Wa Sher,30,3208,Hilmand,Helmand,"Washer, Washir.",Washer,3005
+3006,Garm Ser,30,3209,Hilmand,Helmand,"Garm Ser, Darwishan, Garmser.",Garm Ser,3006
+3010,Kajaki,30,3210,Hilmand,Helmand,Kajaki.,Kajaki,3010
+0,Baghran,,3211,,Ghazni,"Qara Bagh, Qarabagh, Qarah Bagh.  (There is also a Qara Bagh district of Kabul.)",Qara Bagh,1111
+3011,Reg(khan Neshin),30,3212,Hilmand,Kandahar,"Reg, Registan.  (There is also a Reg-e Khan Neshin, in Kandahar, and a Ragistan in Badakhshan.)",Reg,2716
+0,Deh shu,,3213,,,,,
+2701,Kandahar,27,3301,Kandahar,Baghlan,"Andarab, Bano Andarab.",Andarab,907
+2702,Arghandab,27,3302,Kandahar,Baghlan,"Andarab, Bano Andarab.",Andarab,907
+2705,Zheray,27,3303,Kandahar,Herat,Herat.,Herat,3201
+2704,Panj wayi,27,3304,Kandahar,Kandahar,"Panjwayee, Panjwayi, Panjwa'i, Panjwai.",Panjwayee,2704
+2703,Daman,27,3305,Kandahar,Kandahar,Daman.,Daman,2703
+2706,Shah Wali Kot,27,3306,Kandahar,Kandahar,"Shah Wali Kot, Shahwalikot, Shah Walikot..",Shah Wali Kot,2706
+2707,Khakrez,27,3307,Kandahar,Kandahar,"Khakrez, Khakriz.",Khakrez,2707
+2710,Maywand,27,3308,Kandahar,Kandahar,"Maiwand, Maywand.",Maiwand,2710
+2716,Reg,27,3309,Kandahar,Kandahar,"Reg, Registan.  (There is also a Reg-e Khan Neshin, in Kandahar, and a Ragistan in Badakhshan.)",Reg,2716
+2714,Shor Abak,27,3310,Kandahar,Kandahar,Ghorak.,Ghorak,2709
+2711,Spin Boldak,27,3311,Kandahar,Kandahar,"Spin Boldak, Spinboldak.  (Takhta Pul is part of Spin Boldak in the 399 an 407 sets.)",Spin Boldak,2711
+2708,Arghistan,27,3312,Kandahar,Badakhshan,"Kohistan, Kohestiani.  (There is also a Kohistan in Faryab, a Hissa-e-Awali Kohistan in Kapisa, a Hissa-e Duome Kohistan in Kapisa, and a Kohistanat in Saripul.)",Kohistan,1708
+2713,Miyanshin,27,3313,Kandahar,Kandahar,"Miyanishin, Miyanshin, Miyaneshin, Mya Nishin, Myan-e-Sheen.",Miyanishin,2713
+2712,Nesh,27,3314,Kandahar,Kandahar,"Nesh, Nish.",Nesh,2712
+2709,Ghorak,27,3315,Kandahar,Kandahar,Ghorak.,Ghorak,2709
+2715,Maruf,27,3316,Kandahar,Kandahar,"Maruf, Ma'ruf, Maroof.",Maruf,2715
+3401,Zaranj,34,3401,Nimroz,Nimroz,Zaranj.,Zaranj,3401
+3402,Kang,34,3402,Nimroz,Nimroz,"Kang, Qafak.",Kang,3402
+3404,Chahar Burjak,34,3403,Nimroz,Nimroz,"Char Burjak, Chahar Burjak, Charburjak.",Char Burjak,3404
+3403,Chakhansur,34,3404,Nimroz,Nimroz,Chakhansur,Asl-i-Chakhansur,3403
+3405,Khash Rod,34,3405,Nimroz,Badakhshan,Khash.,Khash,1705
+1312,Laja Mangal,,,,Paktia,"Laja Mangel, Laja Mangal, Lazha Mangal.  (The Laja Mangel area is included in Laja Ahmad Khel in the 399 set.)",Laja Mangel,1312
+808,Abshar,,,,Panjsher,"Abshar, Ab Shar.  (Abshar is part of Darah in the 399 set.)",Abshar,808
+2718,Takhta Pul,,,,Kandahar,"Takhta Pul, Shegah.  (Takhta Pul was part of Spin Boldak in the 399 an 407 sets.)",Takhta Pul,2718
+2717,Dand,,,,Baghlan,"Andarab, Bano Andarab.",Andarab,907
+2506,Chenarto,,,,Urozgan,"Chinarto, Chenarto, Chinar Tu.  (Chinarto is part of Chora in the 399 district set)",Chinarto,2507
+1313,Meerzaka,,,,Paktia,"Mirzaka, Mirzakah, Meer Zaka.  (Mirzaka is part of Sayyid Karam in the 399 set, and split off in the others.)",Mirzaka,1313
+3014,Marja,,,,Helmand,Marja.  (Marja is part of Nad Ali in the 399 district set.),Marja,3014
+3406,Delaram,,,,Nimroz,"Dilaram, Delaram.  (Dilaram is part of Kashrod in the 399 district set.)",Dilaram,3406
